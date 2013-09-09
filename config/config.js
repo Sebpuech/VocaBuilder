@@ -3,7 +3,7 @@ var path = require('path'),
 
 module.exports = {
     development: {
-        db: 'mongodb://localhost/mean-dev',
+        db: 'mongodb://sebpuech:besastien@paulo.mongohq.com:10070/TestMEAN',
         root: rootPath,
         app: {
             name: 'MEAN - A Modern Stack - Development'
