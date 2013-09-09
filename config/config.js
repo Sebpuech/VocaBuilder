@@ -6,12 +6,12 @@ module.exports = {
         db: 'mongodb://sebpuech:besastien@paulo.mongohq.com:10070/TestMEAN',
         root: rootPath,
         app: {
-            name: 'MEAN - A Modern Stack - Development'
+            name: 'MEAN - Vocabuilder'
         },
         facebook: {
-            clientID: "APP_ID",
-            clientSecret: "APP_SECRET",
-            callbackURL: "http://localhost:3000/auth/facebook/callback"
+            clientID: "538932409511997",
+            clientSecret: "e7a339db4d262cc783f27174bdb55494",
+            callbackURL: "http://vocaclipper.herokuapp.com"
         },
         twitter: {
             clientID: "CONSUMER_KEY",
