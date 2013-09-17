@@ -11,7 +11,7 @@ module.exports = {
         facebook: {
             clientID: "538932409511997",
             clientSecret: "e7a339db4d262cc783f27174bdb55494",
-            callbackURL: "http://vocaclipper.herokuapp.com"
+            callbackURL: "http://sheltered-springs-1516.herokuapp.com/"
         },
         twitter: {
             clientID: "CONSUMER_KEY",
